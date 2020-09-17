@@ -1,0 +1,6 @@
+C:\Users\tomas\Desktop\PrimerParcial_GrupoAccionN°2\PrimerParical_GrupoDeAccionN°2\PrimerParical_GrupoDeAccionN°2\bin\Debug\PrimerParical_GrupoDeAccionN°2.exe.config
+C:\Users\tomas\Desktop\PrimerParcial_GrupoAccionN°2\PrimerParical_GrupoDeAccionN°2\PrimerParical_GrupoDeAccionN°2\bin\Debug\PrimerParical_GrupoDeAccionN°2.exe
+C:\Users\tomas\Desktop\PrimerParcial_GrupoAccionN°2\PrimerParical_GrupoDeAccionN°2\PrimerParical_GrupoDeAccionN°2\bin\Debug\PrimerParical_GrupoDeAccionN°2.pdb
+C:\Users\tomas\Desktop\PrimerParcial_GrupoAccionN°2\PrimerParical_GrupoDeAccionN°2\PrimerParical_GrupoDeAccionN°2\obj\Debug\PrimerParical_GrupoDeAccionN°2.csprojResolveAssemblyReference.cache
+C:\Users\tomas\Desktop\PrimerParcial_GrupoAccionN°2\PrimerParical_GrupoDeAccionN°2\PrimerParical_GrupoDeAccionN°2\obj\Debug\PrimerParical_GrupoDeAccionN°2.exe
+C:\Users\tomas\Desktop\PrimerParcial_GrupoAccionN°2\PrimerParical_GrupoDeAccionN°2\PrimerParical_GrupoDeAccionN°2\obj\Debug\PrimerParical_GrupoDeAccionN°2.pdb
